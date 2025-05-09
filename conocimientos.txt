@@ -1,0 +1,2 @@
+Conocimientos Previos:
+1. Consultas SQL Server
