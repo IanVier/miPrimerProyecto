@@ -1,3 +1,4 @@
 Conocimientos Previos:
 1. Consultas SQL Server
 2. Curso 30h programacion en Sage 200 (ERP)
+3. Crear pequeñas apps con Microsoft Access
