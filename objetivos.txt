@@ -1,2 +1,3 @@
 Objetivos:
 1. Adquirir conocimientos sólidos en tecnologías front-end y back-end.
+2. Mejorar habilidades en bases de datos, APIs y servicios en la nube.
